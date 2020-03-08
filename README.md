@@ -1,4 +1,10 @@
-# WebApp boilerplate with React JS
+# React Hooks Explained
+My components need super powers?
+In general, using props is enough to create an amazing component, but sometimes you need more. Here are some really useful examples for using hooks:
+
+If you want to open or close a modal or dialog- use the useState hook.
+If you want to fetch some data only at the beginning of the program execution, use the useEffect hook.
+If you want to share information within all components, use the useContext hook.
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello-webapp.git)
 
 ### Requirements:
